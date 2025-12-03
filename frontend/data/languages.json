@@ -1,0 +1,246 @@
+[
+    {
+        "name": "Arabic",
+        "visible": true,
+        "direction": "rtl",
+        "sourcePlaceholder": "أدخل النص بالعربية...",
+        "targetPlaceholder": "سيظهر النص المترجم بالعربية هنا..."
+    },
+    {
+        "name": "Bengali",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Bengali...",
+        "targetPlaceholder": "Translated Bengali text..."
+    },
+    {
+        "name": "Bulgarian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Bulgarian...",
+        "targetPlaceholder": "Translated Bulgarian text..."
+    },
+    {
+        "name": "Catalan",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Catalan...",
+        "targetPlaceholder": "Translated Catalan text..."
+    },
+    {
+        "name": "Chinese",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Chinese...",
+        "targetPlaceholder": "Translated Chinese text..."
+    },
+    {
+        "name": "Croatian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Croatian...",
+        "targetPlaceholder": "Translated Croatian text..."
+    },
+    {
+        "name": "Czech",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Czech...",
+        "targetPlaceholder": "Translated Czech text..."
+    },
+    {
+        "name": "Danish",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Danish...",
+        "targetPlaceholder": "Translated Danish text..."
+    },
+    {
+        "name": "Dutch",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Dutch...",
+        "targetPlaceholder": "Translated Dutch text..."
+    },
+    {
+        "name": "English",
+        "visible": true,
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in English...",
+        "targetPlaceholder": "Translated English text..."
+    },
+    {
+        "name": "Estonian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Estonian...",
+        "targetPlaceholder": "Translated Estonian text..."
+    },
+    {
+        "name": "Finnish",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Finnish...",
+        "targetPlaceholder": "Translated Finnish text..."
+    },
+    {
+        "name": "French",
+        "visible": true,
+        "direction": "ltr",
+        "sourcePlaceholder": "Entrez le texte en français...",
+        "targetPlaceholder": "Texte français traduit..."
+    },
+    {
+        "name": "German",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in German...",
+        "targetPlaceholder": "Translated German text..."
+    },
+    {
+        "name": "Greek",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Greek...",
+        "targetPlaceholder": "Translated Greek text..."
+    },
+    {
+        "name": "Hebrew",
+        "direction": "rtl",
+        "sourcePlaceholder": "הכנס טקסט בעברית...",
+        "targetPlaceholder": "התרגום לעברית יופיע כאן..."
+    },
+    {
+        "name": "Hindi",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Hindi...",
+        "targetPlaceholder": "Translated Hindi text..."
+    },
+    {
+        "name": "Hungarian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Hungarian...",
+        "targetPlaceholder": "Translated Hungarian text..."
+    },
+    {
+        "name": "Indonesian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Indonesian...",
+        "targetPlaceholder": "Translated Indonesian text..."
+    },
+    {
+        "name": "Italian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Italian...",
+        "targetPlaceholder": "Translated Italian text..."
+    },
+    {
+        "name": "Japanese",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Japanese...",
+        "targetPlaceholder": "Translated Japanese text..."
+    },
+    {
+        "name": "Korean",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Korean...",
+        "targetPlaceholder": "Translated Korean text..."
+    },
+    {
+        "name": "Latvian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Latvian...",
+        "targetPlaceholder": "Translated Latvian text..."
+    },
+    {
+        "name": "Lithuanian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Lithuanian...",
+        "targetPlaceholder": "Translated Lithuanian text..."
+    },
+    {
+        "name": "Malay",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Malay...",
+        "targetPlaceholder": "Translated Malay text..."
+    },
+    {
+        "name": "Moroccan Darija (AR Aplhabet)",
+        "visible": true,
+        "direction": "rtl",
+        "sourcePlaceholder": "دخل النص بالدارجة المغربية...",
+        "targetPlaceholder": "النص المترجم بالدارجة المغربية غادي يبان هنا..."
+    },
+    {
+        "name": "Norwegian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Norwegian...",
+        "targetPlaceholder": "Translated Norwegian text..."
+    },
+    {
+        "name": "Polish",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Polish...",
+        "targetPlaceholder": "Translated Polish text..."
+    },
+    {
+        "name": "Portuguese",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Portuguese...",
+        "targetPlaceholder": "Translated Portuguese text..."
+    },
+    {
+        "name": "Romanian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Romanian...",
+        "targetPlaceholder": "Translated Romanian text..."
+    },
+    {
+        "name": "Russian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Russian...",
+        "targetPlaceholder": "Translated Russian text..."
+    },
+    {
+        "name": "Slovak",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Slovak...",
+        "targetPlaceholder": "Translated Slovak text..."
+    },
+    {
+        "name": "Slovenian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Slovenian...",
+        "targetPlaceholder": "Translated Slovenian text..."
+    },
+    {
+        "name": "Spanish",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Spanish...",
+        "targetPlaceholder": "Translated Spanish text..."
+    },
+    {
+        "name": "Swedish",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Swedish...",
+        "targetPlaceholder": "Translated Swedish text..."
+    },
+    {
+        "name": "Thai",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Thai...",
+        "targetPlaceholder": "Translated Thai text..."
+    },
+    {
+        "name": "Turkish",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Turkish...",
+        "targetPlaceholder": "Translated Turkish text..."
+    },
+    {
+        "name": "Ukrainian",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Ukrainian...",
+        "targetPlaceholder": "Translated Ukrainian text..."
+    },
+    {
+        "name": "Urdu",
+        "direction": "rtl",
+        "sourcePlaceholder": "اردو میں ٹیکسٹ درج کریں...",
+        "targetPlaceholder": "اردو ترجمہ یہاں ظاہر ہوگا..."
+    },
+    {
+        "name": "Vietnamese",
+        "direction": "ltr",
+        "sourcePlaceholder": "Enter text in Vietnamese...",
+        "targetPlaceholder": "Translated Vietnamese text..."
+    }
+]

@@ -1,0 +1,55 @@
+# ------------------------
+# Maven
+# ------------------------
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Optional: ignore all build output
+*.class
+*.jar
+*.war
+*.ear
+
+# ------------------------
+# Environment files (secrets)
+# ------------------------
+.env
+*.env
+
+# ------------------------
+# Eclipse IDE
+# ------------------------
+.classpath
+.project
+.settings/
+
+# ------------------------
+# IntelliJ IDEA
+# ------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ------------------------
+# VSCode
+# ------------------------
+.vscode/
+
+# ------------------------
+# OS Specific
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Logs
+# ------------------------
+*.log
+logs/
+
+# ------------------------
+# Backup files
+# ------------------------
+*.bak
+*.tmp
