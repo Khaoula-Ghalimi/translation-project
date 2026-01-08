@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "My Side Panel Extension",
+  "version": "1.0",
+  "permissions": [
+    "contextMenus",
+    "sidePanel",
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "action": {
+    "default_title": "Open Side Panel"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"]
+    }
+  ],
+  "host_permissions": ["<all_urls>"]
+}

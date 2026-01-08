@@ -1,6 +1,7 @@
 import languages from "@/data/languages.json";
 
 export type TranslationResponseType = {
+    originalText?: string;
     translatedText: string;
     score: number; // 0–1
     sourceAudio?: Blob;

@@ -3,6 +3,7 @@
 import { Badge } from "@/components/ui/badge";
 import { ModeToggle } from "@/components/layout/ModeToggle";
 import { CircleCheck, CircleX, Loader2 } from "lucide-react";
+import LogoutButton from "@/components/ui-custom/LogoutButton";
 import { useEffect, useState } from "react";
 import api from "@/lib/axios-client";
 
@@ -37,6 +38,7 @@ export default function Header() {
                 </div>
 
                 <div className="flex items-center gap-4">
+                    <LogoutButton />
                     <ModeToggle />
                 </div>
             </div>
